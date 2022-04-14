@@ -15,7 +15,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 /**
- * A JAX-RS resource for exposing REST endpoints for Task manipulation
+ * A JAX-RS resource for exposing REST endpoints for Task manipulationh
  */
 @Path("demo")
 public class DemoResource {
